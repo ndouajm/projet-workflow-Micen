@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Akoun/Desktop/Gestion_demande"
+		},
+		{
+			"path": "../controllers"
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../demo"
+		},
+		{
+			"path": "../doc"
+		},
+		{
+			"path": "../i18n"
+		},
+		{
+			"path": "../models"
+		},
+		{
+			"path": "../report"
+		},
+		{
+			"path": "../security"
+		},
+		{
+			"path": "../static"
+		},
+		{
+			"path": "../views"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
